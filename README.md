@@ -1,4 +1,4 @@
 # MusicPlayer
-This is simple music player with iTunes API
+This is simple music player with iTunes API (SwiftUI + UIKit)
 
 ![alt text](https://i.ibb.co/BNmMKk5/Screen-Recording-2020-05-28-at-1.gif)
